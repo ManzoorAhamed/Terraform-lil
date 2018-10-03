@@ -29,4 +29,3 @@ acl.tf Create ACL with inbound and outbound rules.
 Security Group Creation:
 sec_gr.tf SG creation with ingress rule allow ssh from ALL.
 
-
